@@ -15,5 +15,7 @@
 **naming convention: use small case with hyphon(-). no spaces**
 
 * we can give all the commands at a time
-
-* git add . ; git commit -m "some-message"; git push -u origin main
+````````````````
+ git add . ; git commit -m "some-message"; git push -u origin main
+ 
+ ```````````````````````````````````````
