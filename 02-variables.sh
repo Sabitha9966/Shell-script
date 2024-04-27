@@ -1,6 +1,8 @@
 #!/bin/bash
 
+#declaring variables
 Person1=Sabi
 Person2=Hanumanth
 
-echo "$Person1: hello $Person2"
+#assigning the variables
+echo "$Person1:: hello $Person2"
