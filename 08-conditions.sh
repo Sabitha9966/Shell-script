@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 NUMBER=$1
 
@@ -8,3 +8,6 @@ then
 else
    echo  " print number is less than 10"
 fi
+
+# greaterthan : -gt lessthan : -lt, equal to : -eq, 
+#  greaterthan equal to : -ge,lessthan equal to: -le
