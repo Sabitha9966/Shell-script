@@ -8,5 +8,5 @@ read Num1
 
 echo "enter Num2"
 read Num2
-
-echo " addtion: $Num1+$Num2 "
+add=$((Num1+Num2))
+echo " addtion: "$add 
