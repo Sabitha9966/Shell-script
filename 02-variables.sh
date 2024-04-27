@@ -1,3 +1,6 @@
 #!/bin/bash
 
-echo "variables"
+Person1=Sabi
+Person2=Hanumanth
+
+echo "$Person1: hello $Person2"
