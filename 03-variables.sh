@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Passing variables from outside using an arguments/parameters
+#Passing variables values from outside using an arguments/parameters
 Person1=$1
 Person2=$2
 
