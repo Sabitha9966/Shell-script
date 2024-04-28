@@ -12,4 +12,5 @@ echo "Process ID of current shell script: $$"
 
 source ./14-other-script.sh
 
+
 echo "After calling other script, course: $COURSE"
